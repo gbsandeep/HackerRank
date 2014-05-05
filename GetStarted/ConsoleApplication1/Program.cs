@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace ConsoleApplication1 {
     public class Program {
-        public static void Main(string[] args) {
+        public static void ChocolateFeastMain(string[] args) {
             long testCount = long.Parse(Console.ReadLine());
             long[] amount = new long[testCount];
             long[] costPerChocolate = new long[testCount];
