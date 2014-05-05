@@ -1,0 +1,4 @@
+C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\GetStarted\bin\Debug\GetStarted.dll
+C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\GetStarted\bin\Debug\GetStarted.pdb
+C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\GetStarted\obj\Debug\GetStarted.dll
+C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\GetStarted\obj\Debug\GetStarted.pdb

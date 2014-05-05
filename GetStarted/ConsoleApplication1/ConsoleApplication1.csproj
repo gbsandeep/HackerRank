@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ManasaAndStones.cs" />
     <Compile Include="Program.cs">
       <SubType>Code</SubType>
     </Compile>
