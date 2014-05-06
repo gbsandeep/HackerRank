@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 namespace ConsoleApplication1 {
     class ManasaAndStones {
-        public static void Main(string[] args) {
+        public static void MainManasaAndStones(string[] args) {
             var testCount = long.Parse(Console.ReadLine());
             long[] numberOfSteps = new long[testCount];
             long[] a_s = new long[testCount];
