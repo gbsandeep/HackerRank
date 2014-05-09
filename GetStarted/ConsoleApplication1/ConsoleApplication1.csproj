@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TravelAroundWorld.cs" />
+    <Compile Include="FillingJars.cs" />
+    <Compile Include="LonelyInteger.cs" />
     <Compile Include="ManasaAndStones.cs" />
     <Compile Include="Program.cs">
       <SubType>Code</SubType>
