@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FindReflectionPoint.cs" />
     <Compile Include="GemElements.cs" />
     <Compile Include="FactorSherlockHolmes.cs" />
     <Compile Include="FibonacciNumber.cs" />

@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace ConsoleApplication1 {
     class GemElements {
-        public static void Main() {
+        public static void MainGemElements() {
             var numberOfRocks = long.Parse(Console.ReadLine());
             int[] gems = new int[26];
             for (int index = 0; index < numberOfRocks; index++) {
