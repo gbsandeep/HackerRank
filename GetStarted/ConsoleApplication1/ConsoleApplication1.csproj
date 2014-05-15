@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FactorSherlockHolmes.cs" />
+    <Compile Include="FibonacciNumber.cs" />
     <Compile Include="TravelAroundWorld.cs" />
     <Compile Include="FillingJars.cs" />
     <Compile Include="LonelyInteger.cs" />

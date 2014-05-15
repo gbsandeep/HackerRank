@@ -2,7 +2,7 @@
 
 namespace ConsoleApplication1 {
     class TravelAroundWorld {
-        public static void Main(string[] args) {
+        public static void MainTravelAroundWorld(string[] args) {
             var cityAndCapacity = Console.ReadLine().Split(' ');
             var numberOfCities = long.Parse(cityAndCapacity[0]);
             var tankCapacity = long.Parse(cityAndCapacity[1]);
