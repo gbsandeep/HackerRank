@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApplication1 {
     class FactorSherlockHolmes {
-        public static void Main() {
+        public static void MainFactorSherlockHolmes() {
             var numberOfTests = long.Parse(Console.ReadLine());
             long[] testNumbers = new long[numberOfTests];
             for (int index = 0; index < numberOfTests; index++) {
