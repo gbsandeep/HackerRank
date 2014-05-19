@@ -2,7 +2,7 @@
 
 namespace ConsoleApplication1 {
     class FindReflectionPoint {
-        public static void Main() {
+        public static void MainFindReflectionPoint() {
             var numberOfTests = long.Parse(Console.ReadLine());
             long[] outputX = new long[numberOfTests];
             long[] outputY = new long[numberOfTests];

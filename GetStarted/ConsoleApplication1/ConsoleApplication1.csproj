@@ -41,19 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FindReflectionPoint.cs" />
-    <Compile Include="GemElements.cs" />
-    <Compile Include="FactorSherlockHolmes.cs" />
-    <Compile Include="FibonacciNumber.cs" />
-    <Compile Include="TravelAroundWorld.cs" />
-    <Compile Include="FillingJars.cs" />
-    <Compile Include="LonelyInteger.cs" />
-    <Compile Include="ManasaAndStones.cs" />
-    <Compile Include="Program.cs">
+    <Compile Include="Week3\LoveLetterMystery.cs" />
+    <Compile Include="Warmup\FindReflectionPoint.cs" />
+    <Compile Include="Warmup\GemElements.cs" />
+    <Compile Include="Warmup\FactorSherlockHolmes.cs" />
+    <Compile Include="Warmup\FibonacciNumber.cs" />
+    <Compile Include="Warmup\TravelAroundWorld.cs" />
+    <Compile Include="Warmup\FillingJars.cs" />
+    <Compile Include="Warmup\LonelyInteger.cs" />
+    <Compile Include="Week2\ManasaAndStones.cs" />
+    <Compile Include="Warmup\ChocolateFeast.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ServiceLane.cs" />
+    <Compile Include="Warmup\ServiceLane.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
