@@ -4,3 +4,9 @@ C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetSta
 C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\aditi1\Documents\Visual Studio 2012\Projects\Learning\HackerRank\GetStarted\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\sandeepg\Source\Repos\HackerRank\GetStarted\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sandeepg\Source\Repos\HackerRank\GetStarted\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sandeepg\Source\Repos\HackerRank\GetStarted\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sandeepg\Source\Repos\HackerRank\GetStarted\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sandeepg\Source\Repos\HackerRank\GetStarted\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sandeepg\Source\Repos\HackerRank\GetStarted\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

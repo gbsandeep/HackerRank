@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Week3\GcdProduct.cs" />
     <Compile Include="Week3\LoveLetterMystery.cs" />
     <Compile Include="Warmup\FindReflectionPoint.cs" />
     <Compile Include="Warmup\GemElements.cs" />

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApplication1.Week3 {
     class LoveLetterMystery {
-        public static void Main() {
+        public static void MainLoveLetterMystery() {
             var numberOfTests = long.Parse(Console.ReadLine());
             string[] testStrings = new string[numberOfTests];
             for (int index = 0; index < numberOfTests; index++) {
