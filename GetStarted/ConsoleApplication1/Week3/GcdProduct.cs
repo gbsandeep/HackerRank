@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication1.Week3 {
     class GcdProduct {
-        public static void Main() {
+        public static void MainGcdProduct() {
             var inputs = Console.ReadLine().Split(' ');
             var input1 = ulong.Parse(inputs[0]);
             var input2 = ulong.Parse(inputs[1]);
