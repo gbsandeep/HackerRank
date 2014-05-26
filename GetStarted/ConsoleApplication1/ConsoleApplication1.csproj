@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Warmup\AngryChildren.cs" />
+    <Compile Include="Warmup\UserName.cs" />
     <Compile Include="Week3\GcdProduct.cs" />
     <Compile Include="Week3\LoveLetterMystery.cs" />
     <Compile Include="Warmup\FindReflectionPoint.cs" />

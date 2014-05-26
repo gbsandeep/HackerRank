@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace ConsoleApplication1 {
     class AngryChildren {
-        public static void Main() {
+        public static void MainAngryChildren() {
             var n = long.Parse(Console.ReadLine());
             var k = long.Parse(Console.ReadLine());
             var bst = new BinarySearchTree();
