@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 namespace ConsoleApplication1 {
     class UserName {
-        public static void Main() {
+        public static void MainUserName() {
             var n = long.Parse(Console.ReadLine());
             var inputs = new string[n];
             for(long i = 0; i < n; i++ ) {
