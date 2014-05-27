@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ConsoleApplication1 {
     class LexicalDisplay {
-        public static void Main() {
+        public static void MainLexicalDisplay() {
             var n = long.Parse(Console.ReadLine());
             var inputs = new string[n];
             for(long i = 0; i < n; i++ ) {

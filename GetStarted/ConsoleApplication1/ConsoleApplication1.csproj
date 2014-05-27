@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArraysAndSorting\TwoArrays.cs" />
+    <Compile Include="ArraysAndSorting\MarkAndToys.cs" />
     <Compile Include="Warmup\AngryChildren.cs" />
     <Compile Include="Warmup\LexicalDisplay.cs" />
     <Compile Include="Warmup\UserName.cs" />
