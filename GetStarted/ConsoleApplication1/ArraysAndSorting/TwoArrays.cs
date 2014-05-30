@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 namespace ConsoleApplication1 {
     class TwoArrays {
-        public static void Main() {
+        public static void MainTwoArrays() {
             var numberOfTestCases = int.Parse(Console.ReadLine());
             var numberOfElements = new int[numberOfTestCases];
             var threshold = new int[numberOfTestCases];
