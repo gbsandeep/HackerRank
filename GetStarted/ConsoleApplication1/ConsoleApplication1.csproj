@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ArraysAndSorting\TwoArrays.cs" />
     <Compile Include="ArraysAndSorting\MarkAndToys.cs" />
+    <Compile Include="Search\LonelyInteger.cs" />
     <Compile Include="Search\Flowers.cs" />
     <Compile Include="Warmup\AngryChildren.cs" />
     <Compile Include="Warmup\LexicalDisplay.cs" />

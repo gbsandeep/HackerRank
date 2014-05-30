@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1.Search {
     class Flowers {
-        static void Main(String[] args) {
+        static void MainFlowers(String[] args) {
             int K;
             string NK = Console.ReadLine();
             string[] NandK = NK.Split(new Char[] { ' ', '\t', '\n' });
