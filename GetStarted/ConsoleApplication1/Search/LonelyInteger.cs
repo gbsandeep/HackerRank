@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace ConsoleApplication1.Search {
     class LonelyInteger {
-        static void Main(String[] args) {
+        static void MainLonelyInteger(String[] args) {
             Console.ReadLine();
             Console.WriteLine(Console.ReadLine()
                 .Split(new Char[] { ' ', '\t', '\n' })
