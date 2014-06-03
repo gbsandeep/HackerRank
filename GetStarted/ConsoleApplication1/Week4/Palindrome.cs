@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ConsoleApplication1.Search {
     class Palindrome {
-        static void Main(String[] args) {
+        static void MainPalindrome(String[] args) {
             var n = uint.Parse(Console.ReadLine());
             var inputs = new List<string>();
             for (int i = 0; i < n; i++) {
