@@ -48,6 +48,7 @@
     <Compile Include="Warmup\AngryChildren.cs" />
     <Compile Include="Warmup\LexicalDisplay.cs" />
     <Compile Include="Warmup\UserName.cs" />
+    <Compile Include="Week3\Gcd2.cs" />
     <Compile Include="Week3\GcdProduct.cs" />
     <Compile Include="Week3\LoveLetterMystery.cs" />
     <Compile Include="Warmup\FindReflectionPoint.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Warmup\ServiceLane.cs" />
     <Compile Include="Week4\AlgoCrushMax.cs" />
+    <Compile Include="Week4\CatalanBst.cs" />
     <Compile Include="Week4\Palindrome.cs" />
   </ItemGroup>
   <ItemGroup>

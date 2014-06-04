@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApplication1.Search {
+namespace ConsoleApplication1.Week4 {
     class Palindrome {
         static void MainPalindrome(String[] args) {
             var n = uint.Parse(Console.ReadLine());

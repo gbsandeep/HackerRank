@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
 
-namespace ConsoleApplication1.Search {
+namespace ConsoleApplication1.Week4 {
     class AlgoCrushMax {
-        static void Main(String[] args) {
+        static void MainAlgoCrushMax(String[] args) {
             var input = (Console.ReadLine()).Split(' ');
             var size = int.Parse(input[0]);
             var querySize = long.Parse(input[1]);
