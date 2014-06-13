@@ -6,7 +6,7 @@ namespace ConsoleApplication1.Week4 {
         static long[] catalanCache = new long[12000];
         static long[] factorialCache = new long[40000];
         static long modValue = (long)(Math.Pow(10, 9) + 9);
-        static void Main(String[] args) {
+        static void MainCatalanBst(String[] args) {
             var inputSize = int.Parse(Console.ReadLine());
             var output = new long[inputSize];
 

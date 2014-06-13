@@ -43,8 +43,11 @@
   <ItemGroup>
     <Compile Include="ArraysAndSorting\TwoArrays.cs" />
     <Compile Include="ArraysAndSorting\MarkAndToys.cs" />
+    <Compile Include="Miscellaneous\RangeToMaximizeProfit.cs" />
+    <Compile Include="Miscellaneous\StockProblem.cs" />
     <Compile Include="Search\LonelyInteger.cs" />
     <Compile Include="Search\Flowers.cs" />
+    <Compile Include="Sorting\QuickSort.cs" />
     <Compile Include="Warmup\AngryChildren.cs" />
     <Compile Include="Warmup\LexicalDisplay.cs" />
     <Compile Include="Warmup\UserName.cs" />
