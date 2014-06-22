@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1.Miscellaneous {
     public class StockProblem {
-        public static void Main(string[] args) {
+        public static void MainStockProblem(string[] args) {
             string input;
             while ((input = Console.ReadLine().Trim().ToUpper()) != "") {
                 var arr = input.Split(' ').Select(a => int.Parse(a)).ToArray();
